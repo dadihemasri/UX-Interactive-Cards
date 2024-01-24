@@ -43,11 +43,18 @@ The Expanding Cards project is versatile and enhances user engagement. It's perf
 
 Customize and elevate your web projects! 🚀🌟
 
-Explore the project live [here](#)!
+Explore the project live [here](https://dadihemasri.github.io/UX-Interactive-Cards/)!
 
 #### Project Screenshots 🖥️
 
-![Expanding Cards Screenshot](insert_screenshot_url_here)
+<img width="585" alt="image" src="https://github.com/dadihemasri/UX-Interactive-Cards/assets/85781102/ed7f7c2e-3fc5-4c21-9d30-2d2c8d0e6598">
+
+<br>
+<br>
+<br>
+<img width="454" alt="image" src="https://github.com/dadihemasri/UX-Interactive-Cards/assets/85781102/1cbb5c24-076b-4319-81ac-e421a5923568">
+
+
 
 #### Technologies Used 🛠️
 
